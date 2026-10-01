@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/home/omoikane/workspace/RTOS_projects/zephyrproject/zephyr"
+    "cmake.sourceDirectory": "/home/omoikane/workspace/RTOS_projects/zephyrproject/zephyr",
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/zephyr-exercises/01_blinky/build/compile_commands.json"
 }
